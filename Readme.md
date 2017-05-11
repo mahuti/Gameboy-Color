@@ -4,7 +4,7 @@ Original post: http://forum.attractmode.org/index.php?topic=1261.msg11687#msg116
 
 I created several themes for handhelds living in their natural environments. On desks. 
 
-![Image of GBC Theme Sample](https://raw.githubusercontent.com/mahuti/Gameboy-Color/master/Gameboy%20Color/gbc.png)
+![Image of GBC Theme Sample](https://raw.githubusercontent.com/mahuti/Gameboy-Color/master/gbc.png)
 
 ### Requires: 
 - Snap: video snaps from emumovies
