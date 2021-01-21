@@ -7,17 +7,16 @@ I created several themes for handhelds living in their natural environments. On 
 ![Image of GBC Theme Sample](https://raw.githubusercontent.com/mahuti/Gameboy-Color/master/gbc.png)
 
 ### Requires: 
-- Snap: video snaps from emumovies
-- Flyer: 2d boxart from hyperspin
-- Wheel: wheel logos from hyperspin
+- Pos module https://github.com/mahuti/Pos-Module
+- shadow-glo module (included) by Zpaolo11x
+
+### uses: 
+- snap: video snaps 
+- boxart: 2d boxart 
+- wheel: wheel logos 
 
 ### Features: 
 - Standard images are angled dynamically
-- If 2d boxart is not found, original gameboy box is shown
-- Themes are 4:3 ratio
+- If 2d boxart is not found, original gameboy color box + cartridge pile is shown
+- Theme is scalable to any size 
 - Does not use a spinning wheel (but does use wheel logos)
-
-
-#### To-Do
-- [ ] Modify Theme to work in other than 4:3 Mode
-
